@@ -1,0 +1,20 @@
+echo "
+Welcome to my castle
+"
+
+echo "
+ /\                /\ 
+/  \              /  \ 
+|  |______________|  |
+|                    |
+|   []    []    []   |
+|                    |
+|         __         |
+|________|  |________|
+"
+
+# M = alt
+# ^ = ctrl
+# copy = alt + 6
+# exit = ctrl + x
+# write = ctrl + o
